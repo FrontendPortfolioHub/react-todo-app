@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendPortfolioHub/react-todo-app/static/css/main.9ecdfe73.css",
+    "main.js": "/FrontendPortfolioHub/react-todo-app/static/js/main.3a34590b.js",
+    "index.html": "/FrontendPortfolioHub/react-todo-app/index.html",
+    "main.9ecdfe73.css.map": "/FrontendPortfolioHub/react-todo-app/static/css/main.9ecdfe73.css.map",
+    "main.3a34590b.js.map": "/FrontendPortfolioHub/react-todo-app/static/js/main.3a34590b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ecdfe73.css",
+    "static/js/main.3a34590b.js"
+  ]
+}
