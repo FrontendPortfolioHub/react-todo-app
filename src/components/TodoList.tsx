@@ -3,7 +3,6 @@ import { Status } from '../types/Status';
 import { Todo } from '../types/Todo';
 import { TodoItem } from './TodoItem';
 
-/* eslint-disable jsx-a11y/control-has-associated-label */
 type Props = {
   todos: Todo[],
   removeTodoFromServer: (id: number) => void,
